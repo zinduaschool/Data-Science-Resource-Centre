@@ -9,18 +9,18 @@ This repository is built to:
 📂 Folder Structure
 Here’s a quick overview of what you’ll find:
 
-books/: Must-read books in data science, machine learning, and AI.
-videos/: Links to well-explained tutorials, YouTube playlists, and recorded workshops.
-blogs/: Curated blogs and articles that simplify complex topics.
-open-source/: Open-source projects to explore, learn, and contribute to.
-tools/: Notebooks, scripts, and utilities to streamline your work.
-datasets/: Sample datasets for practice, experimentation, and projects.
-cheatsheets/: Quick reference guides for popular libraries and algorithms.
-job-resources/: Interview prep materials, career advice, and resume tips.
-podcasts/: Inspiring and educational podcasts about DS, AI, and tech.
-newsletters/: Recommendations for keeping up with the latest in DS.
-community/: Links to forums, Discord/Slack groups, and networking spaces.
-academic-papers/: Foundational and trending research papers.
+- books/: Must-read books in data science, machine learning, and AI.
+- videos/: Links to well-explained tutorials, YouTube playlists, and recorded workshops.
+- blogs/: Curated blogs and articles that simplify complex topics.
+- free-courses/: Free courses on key data science concepts
+- tools/: Notebooks, scripts, and utilities to streamline your work.
+- datasets/: Sample datasets for practice, experimentation, and projects.
+- cheatsheets/: Quick reference guides for popular libraries and algorithms.
+- job-resources/: Interview prep materials, career advice, and resume tips.
+- podcasts/: Inspiring and educational podcasts about DS, AI, and tech.
+- newsletters/: Recommendations for keeping up with the latest in DS.
+- community/: Links to forums, Discord/Slack groups, and networking spaces.
+- academic-papers/: Foundational and trending research papers.
 
 🛠️ How to Use This Repository
 
