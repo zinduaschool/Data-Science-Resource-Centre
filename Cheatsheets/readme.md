@@ -3,7 +3,7 @@ Here, you'll find some handy cheat sheets to speed up your workflow and learning
 ## 📌 Python
 - 🐍 [Pandas Cheat Sheet](python/pandas_cheat_sheet.pdf)
 - 🔢 [NumPy Cheat Sheet](python/numpy_cheat_sheet.pdf)
-- 📊 [Matplotlib Cheat Sheet](python/matplotlib_cheat_sheet.pdf)
+- 📊 [Matplotlib Cheat Sheet]([python/matplotlib_cheat_sheet.pdf](https://matplotlib.org/cheatsheets/))
 
 ## 📌 SQL
 - 🗄️ [SQL Queries Reference](sql/sql_queries_reference.pdf)
