@@ -35,4 +35,7 @@ Fork this repository and create a new branch.
 Add your resource to the appropriate folder with a clear, concise description.
 Submit a pull request and explain why it’s valuable for the community.
 
+❤️ Acknowledgments
+This repository wouldn’t be possible without the collaboration and support of our amazing bootcamp community. Let’s grow and learn together!
+
 We hope this resource hub enhances your learning experience and helps you on your path to becoming a successful data scientist!
