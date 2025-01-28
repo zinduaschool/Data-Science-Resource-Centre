@@ -6,12 +6,6 @@ This repository is built to:
 - Organize and centralize high-quality resources for data science enthusiasts.
 - Encourage collaborative contributions from the community to keep the repo fresh and relevant
 
-🛠️ How to Use This Repository
-
-- Browse Resources: Jump into any folder to explore content related to that category.
-- Suggest Additions: Found a great resource? Open a pull request or file an issue!
-- Collaborate: Share your insights and help others by contributing new material.
-
 📂 Folder Structure
 Here’s a quick overview of what you’ll find:
 
@@ -27,3 +21,16 @@ podcasts/: Inspiring and educational podcasts about DS, AI, and tech.
 newsletters/: Recommendations for keeping up with the latest in DS.
 community/: Links to forums, Discord/Slack groups, and networking spaces.
 academic-papers/: Foundational and trending research papers.
+
+🛠️ How to Use This Repository
+
+- Browse Resources: Jump into any folder to explore content related to that category.
+- Suggest Additions: Found a great resource? Open a pull request or file an issue!
+- Collaborate: Share your insights and help others by contributing new material.
+
+🤝 Contributing
+We encourage contributions! Follow these steps to add a new resource:
+
+Fork this repository and create a new branch.
+Add your resource to the appropriate folder with a clear, concise description.
+Submit a pull request and explain why it’s valuable for the community.
