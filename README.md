@@ -34,3 +34,5 @@ We encourage contributions! Follow these steps to add a new resource:
 Fork this repository and create a new branch.
 Add your resource to the appropriate folder with a clear, concise description.
 Submit a pull request and explain why it’s valuable for the community.
+
+We hope this resource hub enhances your learning experience and helps you on your path to becoming a successful data scientist!
