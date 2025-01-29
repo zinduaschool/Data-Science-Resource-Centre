@@ -1,12 +1,12 @@
-🎯 Purpose of this Repository
+# 🎯 Purpose of this Repository
 
-This repository is built to:
+ ## This repository is built to:
 
 - Complement our bootcamp curriculum by providing additional learning materials.
 - Organize and centralize high-quality resources for data science enthusiasts.
 - Encourage collaborative contributions from the community to keep the repo fresh and relevant
 
-📂 Folder Structure
+## 📂 Folder Structure
 Here’s a quick overview of what you’ll find:
 
 - books/: Must-read books in data science, machine learning, and AI.
@@ -22,20 +22,20 @@ Here’s a quick overview of what you’ll find:
 - community/: Links to forums, Discord/Slack groups, and networking spaces.
 - academic-papers/: Foundational and trending research papers.
 
-🛠️ How to Use This Repository
+## 🛠️ How to Use This Repository
 
 - Browse Resources: Jump into any folder to explore content related to that category.
 - Suggest Additions: Found a great resource? Open a pull request or file an issue!
 - Collaborate: Share your insights and help others by contributing new material.
 
-🤝 Contributing
+## 🤝 Contributing
 We encourage contributions! Follow these steps to add a new resource:
 
 Fork this repository and create a new branch.
 Add your resource to the appropriate folder with a clear, concise description.
 Submit a pull request and explain why it’s valuable for the community.
 
-❤️ Acknowledgments
+## ❤️ Acknowledgments
 This repository wouldn’t be possible without the collaboration and support of our amazing bootcamp community. Let’s grow and learn together!
 
 We hope this resource hub enhances your learning experience and helps you on your path to becoming a successful data scientist!
