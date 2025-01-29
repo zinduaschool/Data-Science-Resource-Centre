@@ -74,4 +74,5 @@
   *Author:* Jake VanderPlas  
   *Availability:* [Free HTML](https://jakevdp.github.io/PythonDataScienceHandbook/) · MIT License  
 
-
+## 📜 License & Attribution  
+All books are linked to their original sources. Verify licenses before redistributing content.  
