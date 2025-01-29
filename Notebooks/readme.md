@@ -77,7 +77,7 @@ A curated list of interactive Jupyter and Colab notebooks explaining data scienc
   *Author:* Ted Petrou  
   - Covers K-means and hierarchical clustering.  
   - 📜 License: CC BY-SA 4.0  
-  - [View on GitHub](https://github.com/dnouri/sklearn-extensions)
+  - [View on GitHub]
 
 ---
 
@@ -113,7 +113,7 @@ A curated list of interactive Jupyter and Colab notebooks explaining data scienc
   *Author:* Simran Kaur  
   - Tokenization, stemming, TF-IDF explained.  
   - 📜 License: MIT  
-  - [View on GitHub](https://github.com/simrankaur/nltk-tutorial)
+  - [View on GitHub]
 
 ### Transformers
 - 🤗 **Hugging Face Tutorials**  
@@ -136,7 +136,7 @@ A curated list of interactive Jupyter and Colab notebooks explaining data scienc
   *Author:* Aileen Nielsen  
   - From EDA to advanced forecasting models.  
   - 📜 License: MIT  
-  - [View on GitHub](https://github.com/aileenielsen/TimeSeriesAnalysis)
+  - [View on GitHub]
 
 ---
 
@@ -146,7 +146,7 @@ A curated list of interactive Jupyter and Colab notebooks explaining data scienc
   *Author:* Raghavendra Meharwade  
   - Tutorials on Flask APIs, Docker, and AWS deployment.  
   - 📜 License: MIT  
-  - [View on GitHub](https://github.com/rahul-meharwade/ML-Deployment)
+  - [View on GitHub]
 
 - ☁️ **ML Pipelines with TFX**  
   *Team:* TensorFlow  
