@@ -8,7 +8,7 @@
 
  ## Important Links 
  - [Data Science Curriculum](https://github.com/zinduaschool/data-science-public)
- - [PyData Notes](url)
+ - [PyData Notes](https://github.com/zinduaofficial/General-Data-Analysis/tree/main)
  - [GenData Notes](url)
  - [Machine Learning Notes](https://github.com/zinduaschool/ml-notes)
  - [Deep Learning Notes](url)
