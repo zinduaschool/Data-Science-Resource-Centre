@@ -2,9 +2,18 @@
 
  ## This repository is built to:
 
-- Complement our bootcamp curriculum by providing additional learning materials.
+- Complement our bootcamp curriculum by providing additional learning materials and compiling all Zindua specific materials into a one stop shop for Data Science
 - Organize and centralize high-quality resources for data science enthusiasts.
 - Encourage collaborative contributions from the community to keep the repo fresh and relevant
+
+ ## Important Links 
+ - [Data Science Curriculum](https://github.com/zinduaschool/data-science-public)
+ - [PyData Notes](url)
+ - [GenData Notes](url)
+ - [Machine Learning Notes](https://github.com/zinduaschool/ml-notes)
+ - [Deep Learning Notes](url)
+ - [Big Data Notes](url)
+
 
 ## 📂 Folder Structure
 Here’s a quick overview of what you’ll find:
